@@ -1,4 +1,4 @@
-# 
+# Leve Devin AI predefinições. Com treinamento de modelos personalizados e computação de borda — otimizado para máximo desempenho e eficiência.
 
 
 
